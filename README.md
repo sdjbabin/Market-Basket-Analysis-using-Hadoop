@@ -1,5 +1,4 @@
-Here is a detailed `README.md` file for your directory, integrating the context of your case study and the provided directory structure.
-
+# The Apriori Algorithm: Big Data Mining in Market Basket Analysis
 ---
 
 ## Market Basket Analysis with Hadoop MapReduce
@@ -124,4 +123,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 --- 
 
-Let me know if you'd like additional refinements!
